@@ -20,6 +20,8 @@
 
 html {
   height: 100%;
+  overflow-x: hidden;
+  overscroll-behavior-x: none;
 }
 
 @font-face {

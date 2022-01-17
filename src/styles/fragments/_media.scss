@@ -68,3 +68,42 @@
     }
   }
 }
+
+//Iphone X for test=))
+@media (width : 375px) {
+  .plate {
+    grid-template-columns: 1fr;
+  }
+
+  .content {
+    .catalog {
+      padding: 5px;
+    }
+  }
+
+  .plate {
+    gap: 10px;
+  }
+
+  .content{
+    .catalog {
+      .catalog__header {
+        width: 355px;
+      }
+    }
+  }
+
+  .footer{
+    .footer__block {
+      width: 355px;
+    }
+  }
+
+  .card {
+    width: 355px;
+    .card__gif-wrapper{
+      width: 355px;
+      height: 355px;
+    }
+  }
+}
