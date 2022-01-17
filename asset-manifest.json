@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/spa_alfa/static/css/main.61343074.css",
+    "main.css": "/spa_alfa/static/css/main.e26091c0.css",
     "main.js": "/spa_alfa/static/js/main.46f00c85.js",
     "static/media/YandexSansText-Regular.ttf": "/spa_alfa/static/media/YandexSansText-Regular.1a3aa4c8d33c3b216bb3.ttf",
     "static/media/dislike.svg": "/spa_alfa/static/media/dislike.247df3307673f5feadd1.svg",
     "index.html": "/spa_alfa/index.html",
-    "main.61343074.css.map": "/spa_alfa/static/css/main.61343074.css.map",
+    "main.e26091c0.css.map": "/spa_alfa/static/css/main.e26091c0.css.map",
     "main.46f00c85.js.map": "/spa_alfa/static/js/main.46f00c85.js.map"
   },
   "entrypoints": [
-    "static/css/main.61343074.css",
+    "static/css/main.e26091c0.css",
     "static/js/main.46f00c85.js"
   ]
 }
