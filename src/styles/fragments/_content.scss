@@ -4,9 +4,9 @@
   flex-direction: column;
   align-items: center;
   margin-top: 110px;
+  flex: 1 0 auto;
 
   .catalog {
-    width: 1250px;
     padding: 10px;
     display: flex;
     flex-direction: column;
@@ -17,7 +17,7 @@
     box-shadow: 1px 1px 15px 1px rgba(0, 0, 0, 0.2);
 
     .catalog__header {
-      width: 100%;
+      width: 1252px;
       display: flex;
       flex-direction: row;
       align-items: center;
